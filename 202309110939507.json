@@ -1,0 +1,215 @@
+{
+  "formType": 0,
+  "assessWay": 2,
+  "subjectRoom": 201,
+  "topicPackName": "test2",
+  "remark": "<p>未命名量表描述</p>",
+  "topicList": [
+    {
+      "style": null,
+      "topicName": "<p>1维度</p>",
+      "topicType": 1,
+      "topicNo": 0,
+      "jumpType": 0,
+      "jumpTopicNo": "",
+      "optGroupLabel": null,
+      "groupLabel": "<p>1维度</p>",
+      "optList": []
+    },
+    {
+      "isRequired": 1,
+      "style": "1",
+      "topicName": "<p>2nps</p>",
+      "topicType": 2,
+      "topicNo": 1,
+      "jumpType": 0,
+      "jumpTopicNo": "",
+      "optGroupLabel": null,
+      "groupLabel": "<p>1维度</p>",
+      "optList": [
+        {
+          "optLabel": "不可能",
+          "optValue": 0,
+          "extraRemarkFlag": null
+        },
+        {
+          "optLabel": "选项1",
+          "optValue": 1,
+          "extraRemarkFlag": null
+        },
+        {
+          "optLabel": "选项2",
+          "optValue": 2,
+          "extraRemarkFlag": null
+        },
+        {
+          "optLabel": "选项3",
+          "optValue": 3,
+          "extraRemarkFlag": null
+        },
+        {
+          "optLabel": "选项4",
+          "optValue": 4,
+          "extraRemarkFlag": null
+        },
+        {
+          "optLabel": "选项5",
+          "optValue": 5,
+          "extraRemarkFlag": null
+        },
+        {
+          "optLabel": "很有可能",
+          "optValue": 6,
+          "extraRemarkFlag": null
+        }
+      ]
+    },
+    {
+      "isRequired": 1,
+      "style": null,
+      "topicName": "<p>3单选</p>",
+      "topicType": 3,
+      "topicNo": 2,
+      "jumpType": 0,
+      "jumpTopicNo": "",
+      "optGroupLabel": null,
+      "groupLabel": "<p>1维度</p>",
+      "optList": [
+        {
+          "optLabel": "选项1",
+          "optValue": 1,
+          "extraRemarkFlag": null,
+          "jumpTopicNo": ""
+        },
+        {
+          "optLabel": "选项2",
+          "optValue": 2,
+          "extraRemarkFlag": null,
+          "jumpTopicNo": ""
+        }
+      ]
+    },
+    {
+      "isRequired": 1,
+      "style": null,
+      "topicName": "<p>4多选</p>",
+      "topicType": 4,
+      "topicNo": 3,
+      "jumpType": 0,
+      "jumpTopicNo": "",
+      "optGroupLabel": null,
+      "groupLabel": "<p>1维度</p>",
+      "optList": [
+        {
+          "optLabel": "选项1",
+          "optValue": 1,
+          "extraRemarkFlag": null,
+          "jumpTopicNo": ""
+        },
+        {
+          "optLabel": "选项2",
+          "optValue": 2,
+          "extraRemarkFlag": null,
+          "jumpTopicNo": ""
+        }
+      ]
+    },
+    {
+      "isRequired": 1,
+      "style": null,
+      "topicName": "<p>5矩阵列表</p>",
+      "topicType": 5,
+      "topicNo": 4,
+      "jumpType": 0,
+      "jumpTopicNo": "",
+      "optGroupLabel": [
+        "分组一",
+        "分组二"
+      ],
+      "groupLabel": "<p>1维度</p>",
+      "optList": [
+        {
+          "optLabel": "选项1",
+          "optValue": 1,
+          "extraRemarkFlag": null
+        },
+        {
+          "optLabel": "选项2",
+          "optValue": 2,
+          "extraRemarkFlag": null
+        },
+        {
+          "optLabel": "选项3",
+          "optValue": 3,
+          "extraRemarkFlag": null
+        },
+        {
+          "optLabel": "选项4",
+          "optValue": 4,
+          "extraRemarkFlag": null
+        },
+        {
+          "optLabel": "选项5",
+          "optValue": 5,
+          "extraRemarkFlag": null
+        }
+      ]
+    },
+    {
+      "isRequired": 1,
+      "style": null,
+      "topicName": "<p>6单项填空</p>",
+      "topicType": 8,
+      "topicNo": 5,
+      "jumpType": 0,
+      "jumpTopicNo": "",
+      "optGroupLabel": null,
+      "groupLabel": "<p>1维度</p>",
+      "optList": [
+        {
+          "optValue": 0,
+          "optLabel": "<p>6单项填空</p>",
+          "optType": 8,
+          "optValidate": 1
+        }
+      ]
+    },
+    {
+      "isRequired": 1,
+      "style": null,
+      "topicName": "7多项填空1:___qq___",
+      "topicType": 9,
+      "topicNo": 6,
+      "jumpType": 0,
+      "jumpTopicNo": "",
+      "optGroupLabel": null,
+      "groupLabel": "<p>1维度</p>",
+      "optList": [
+        {
+          "value": "___",
+          "optLabel": "7多项填空1:",
+          "optValidate": 1,
+          "isRequired": "1",
+          "title": "填空1",
+          "optType": 9,
+          "optValue": 0,
+          "referContentType": null,
+          "referTopicPackId": null,
+          "referTopicPackName": null
+        },
+        {
+          "value": "___",
+          "optLabel": "qq",
+          "optValidate": 1,
+          "isRequired": "1",
+          "title": "填空2",
+          "optType": 9,
+          "optValue": 0,
+          "referContentType": null,
+          "referTopicPackId": null,
+          "referTopicPackName": null
+        }
+      ]
+    }
+  ]
+}
